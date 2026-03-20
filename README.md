@@ -1,16 +1,51 @@
-## Hi there 👋
+## I'm lekside 👋
 
-<!--
-**lekside-mgw/lekside-mgw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design, write, and build onchain.
 
-Here are some ideas to get you started:
+part creator, part designer, part vibe coder  
+currently exploring agentic commerce, defi & infra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ what I'm focused on
+
+- building small onchain experiments
+- learning solidity through real systems
+- exploring agentic workflows + stablecoins
+- sharing ideas in public
+
+---
+
+### 🛠 projects
+
+- **agentic-payments (WIP)**  
+  experimenting with intent-based transactions and automation
+
+- **stablecoin-notes**  
+  breaking down how different stablecoin systems actually work
+
+- **onchain-playground**  
+  random builds, tests, and ideas as I learn
+
+---
+
+### ⚙️ stack
+
+- solidity (learning/building)
+- c++
+- prompt engineering
+- basic frontend (as needed)
+
+---
+
+### 🧠 current mindset
+
+learning by building > overthinking  
+systems over hype  
+progress in public
+
+---
+
+### 🌍 find me
+
+- twitter/x: @mgw_wagwan
